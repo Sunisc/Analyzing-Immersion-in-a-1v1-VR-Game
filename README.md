@@ -167,9 +167,3 @@ thus allowing for one of the pawns to not spawn at all.
 Special thanks to Technical Writer Michael Prinke of Unreal Engine for covering the fundamentals
 of the server-client model. We would also like to thank our instructor Nick Rewkowski for the
 steer-to-center redirection algorithm implementation. Assets from turbosquid.com.
-
-### 4.5 Collaboration
-
-Alex worked on the data collection and analysis. Austin implemented the RPCs and Steam Multi-
-player. Surya worked on S2C, game functionality, sound, and scene setup. Surya, Austin and Alex
-all worked together on the write-up and analyzing our results.
